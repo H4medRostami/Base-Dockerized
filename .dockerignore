@@ -1,15 +1,1 @@
 # comment By Hamed :) :todo this config cause to database problem change it.
-*/temp*
-*/*/temp*
-temp?
-.git
-.ipynb_checkpoints
-notebooks
-unused
-Dockerfile
-.DS_Store
-.gitignore
-README.md
-env.*
-devops
-*.csv
